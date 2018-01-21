@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ajkatom/twiter.js/issues"
   },
-  "homepage": "https://github.com/ajkatom/twiter.js#readme"
+  "homepage": "https://github.com/ajkatom/twiter.js#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
